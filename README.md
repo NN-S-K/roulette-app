@@ -1,30 +1,12 @@
 # ルーレットUI作成
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tkunaaa-1042s-projects/v0-ui)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/LAvDnU6FZCR)
-
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+このリポジトリはv0を利用して生成されたソースで構成されています。  
+- v0
+https://v0.dev/
 
-## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/tkunaaa-1042s-projects/v0-ui](https://vercel.com/tkunaaa-1042s-projects/v0-ui)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/LAvDnU6FZCR](https://v0.dev/chat/projects/LAvDnU6FZCR)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+v0はFigmaで作成したデザインや、自然言語のプロンプトからReact(+Tailwind)のコンポーネントを生成します。
+UI構築を自動化し、コーディングの初期作業を大幅に短縮可能です。
+本職でない人が個人でwebデザインをするのは大変ですが、v0は自分の頭の中にあるイメージをプロンプトにするだけで高速にUIデザインを提案してくれます。
+日本語、英語どちらのプロンプトでも作成可能です。尚、英語のプロンプトで作成した方がより正確に伝わるそうです。
