@@ -146,8 +146,8 @@ export default function TopicRoulette() {
       <div className="w-full max-w-2xl space-y-8">
         {/* タイトルと設定ボタン */}
         <div className="text-center relative">
-          <h1 className="text-3xl font-bold text-orange-800 mb-2">🎰 お題ルーレット</h1>
-          <p className="text-orange-600">ルーレットを回してお題を決めよう！</p>
+          <h1 className="text-3xl font-bold text-orange-800 mb-2">🎰 ルーレット</h1>
+          <p className="text-orange-600">ルーレットを回そう！</p>
 
           <Dialog open={isManageOpen} onOpenChange={setIsManageOpen}>
             <DialogTrigger asChild>
