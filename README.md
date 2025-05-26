@@ -12,6 +12,6 @@ UI構築を自動化し、コーディングの初期作業を大幅に短縮可
 日本語、英語どちらのプロンプトでも作成可能です。尚、英語のプロンプトで作成した方がより正確に伝わるそうです。
 
 ### demo動画
-[動画を再生_mov](./videocapture_demo.mov)
+[動画をDL_mov](./videocapture_demo.mov)
 
-[動画を再生_mp4](./videocapture_demo.mp4)
+[動画をDL_mp4](./videocapture_demo.mp4)
